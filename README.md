@@ -55,23 +55,28 @@ Server berjalan pada
 http://localhost:3000
 
 Pengujian API Menggunakan Postman
-GET Data
 
+GET Data
+![GET](screenshot/get.png)
 Digunakan untuk menampilkan seluruh data.
+
+PATCH Data
+![PATCH](screenshot/patch.png)
+Mengupdate sebagian data produk berdasarkan ID.
 
 
 POST Data
-
+![POST](screenshot/post.png)
 Digunakan untuk menambahkan data baru.
 
 
-PUT Data
-
-Digunakan untuk mengubah data berdasarkan ID.
+GET Data
+![GET](screenshot/get1.png)
+Mengambil satu data produk berdasarkan ID.
 
 
 DELETE Data
-
+![DELETE](screenshot/delete.png)
 Digunakan untuk menghapus data berdasarkan ID.
 
 Kesimpulan
